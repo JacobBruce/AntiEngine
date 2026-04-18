@@ -272,6 +272,12 @@ The history of physics demonstrates that mathematical predictions of general rel
 
 This model suggests that 95% of the observable universe consists not of mysterious dark components requiring new particles or modified gravity, but of negative mass obeying the same general relativistic principles as positive mass. The model doesn't require any exotic new physics, unless you consider negative mass to be exotic. It’s often called exotic matter but it arises from the symmetry in our most fundamental theories.
 
+Acknowledgments
+
+The Claude Sonnet 4.5 & 4.6 models were instrumental in developing several mechanisms and tests proposed in this paper, namely the ergosphere-based flare mechanism and the proposal to look for background gravitational wave signatures. A cosmology paper written by someone who isn’t an expert in the field, with contributions from an AI model, is easy to ignore, but if our predictions are confirmed by observations, it will be yet another example of how strange the universe truly is.
+
+We would also like to acknowledge J.P. Petite for his extensive work on twin universe cosmology and the small number of researchers actively working in this field, despite the unconventional nature of these models. Abstract concepts like negative mass and negative time sound like exotic sci-fi ideas, causing them to be instinctively dismissed or overlooked despite their deep roots in cosmology and their immense explanatory power.
+
 References
 
 [1] DESI Collaboration; M.A. Karim et al. (2025). DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints. Physical Review D, 112, 083515. https://doi.org/10.1103/tr6y-kpc6
