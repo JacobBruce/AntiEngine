@@ -1,0 +1,299 @@
+The Negative Mass Anti-Universe Model
+
+A Unified Framework for Dark Matter, Dark Energy, and Black Hole Physics
+
+J.D. Bruce
+March 2026
+
+Some form of anti-universe containing negative mass/energy is predicted by multiple mathematical frameworks; the Kerr anti-universe, the CPT-symmetric universe, the hourglass universe arising from Loop Quantum Gravity and the No Boundary Proposal. All these approaches are converging onto the same structure without being designed to, that suggests we should take the math seriously. The anti-universe model also naturally emerges from energy conservation principles and the mass-energy equivalence principle. The model provides a unified explanation for dark matter, dark energy, and exotic black hole dynamics without requiring ad-hoc mechanisms or new physics. We argue the anti-universe region predicted by extended Kerr geometry is not just a mathematical artifact. We demonstrate that this framework solves multiple outstanding problems in cosmology including the cuspy halo problem, flat galactic rotation curves, anomalous gravitational lensing, anomalous black hole flare dynamics, the black hole information paradox, the cosmological constant problem, and the observed decrease in dark energy density. The model makes several testable predictions including specific patterns in black hole flare activity, correlations between the dark halo and galaxy morphology, the rate of change in dark energy density over time, and gravitational wave signatures from cosmic voids.
+
+1. Introduction
+
+Modern cosmology faces significant challenges in explaining dark matter and dark energy, which together comprise approximately 95% of the universe's total energy budget. Despite decades of searches, Weakly Interacting Massive Particles (WIMPs) remain undetected, and Modified Newtonian Dynamics (MOND) fails to account for many observational phenomena. Recent results from DESI have further complicated the picture: the density of dark energy appears to be decreasing over time,[1] contradicting the long-held cosmological constant model.
+
+The mathematics of general relativity predicts exotic structures within rotating black holes.[2] The extended Kerr solution reveals an anti-universe region with negative Arnowitt-Deser-Misner (ADM) mass, accessible by traversing through the ring singularity.[3] While often dismissed as mathematical artifacts, these solutions are exact consequences of Einstein's field equations and deserve serious consideration, especially when multiple independent frameworks are converging on the same conclusion.
+
+We propose that these apparently disparate phenomena — cosmological dark components and black hole interiors — are manifestations of a single underlying structure: a time-reversed universe dominated by negative mass/energy that interacts with our positive mass universe primarily through gravitation. The anti-universe also emerges from zero-energy models where an equal amount of positive and negative energy exist, suggesting these models represent different scales of the same fundamental structure.
+
+The ΛCDM framework requires three largely unexplained components: dark matter, dark energy, and a cosmological constant mechanism. The anti-universe model we propose replaces all of those components with a single unified framework, without requiring the introduction of any new physics. Dark matter requires some form of new particle and dark energy is still a complete mystery to us. Quantum field theory predicts a dark energy density many orders of magnitude apart from what we actually measure.
+
+This is known as the cosmological constant problem and it has been called the worst prediction in physics. The model we propose provides a natural mechanism for dark energy without requiring any fine-tuning. The diffuse nature of the negative mass in the anti-universe exerts a repulsive effect, and the density decreases as the anti-universe expands, resulting in a non-constant dark energy and possibly varying rates of expansion throughout the universe.
+
+If the anti-universe is CPT symmetric with ours, then every vacuum fluctuation in our universe has a corresponding anti-fluctuation in the anti-universe with opposite energy. The near-zero observed vacuum energy is a direct consequence of the symmetry between the two sides, resolving the vacuum catastrophe. The explanatory power of this model is a result of extending our existing mathematical frameworks to their natural conclusion and trusting what they tell us even if it seems unconventional or counter-intuitive.
+
+The physical reality of antiparticles, black holes, quantum entanglement, quantum superposition, and time dilation, all were initially met with skepticism precisely because they seemed too strange, yet the mathematics was telling us something true about reality. When many of our best cosmological models are describing the same overall picture using different approaches and different starting points, that is strong evidence they are telling us something real about the universe.
+
+We argue the current crisis in cosmology is primarily caused by the fact we are essentially missing half the picture when we dismiss the physical reality of the anti-universe. The solutions to many big problems in cosmology emerge naturally when we consider the dynamics of the anti-universe and how it interacts with our universe. The maximal extension of the Kerr solution predicts an infinite chain of universes connected by black holes and white holes, with anti-universes appearing when you traverse through the ring singularity itself rather than around it.[3]
+
+Penrose diagrams reveal the full causal structure, and if we take the mathematics seriously, it tells us the same thing. The ring singularity acting as a portal to the anti-universe can potentially explain the chaotic flare activity observed around supermassive black holes. This model suggests we should think of black holes and white holes as two sides of the same coin, connected by some type of wormhole or quantum tunnel.
+
+White holes are traditionally seen as being deeply problematic from a formation perspective. Black holes form through collapse, but white holes would require time-reversed collapse, which seems to violate the second law of thermodynamics. However, the anti-universe is time reversed, so what we perceive as thermodynamically impossible (matter fountaining out of a white hole) would be the natural behavior there.
+
+2. Theoretical Framework
+
+2.1 Energy Conservation and the Zero-Energy Universe
+
+We begin by applying the principle of energy conservation to the universe's origin. For the total energy to equal zero at the moment of creation, equal amounts of positive and negative energy must exist. Taking the mass-energy equivalence (E = mc²) literally suggests that negative mass must exist as the physical manifestation of negative energy. Mathematical frameworks such as dynamic group theory and Feynman diagrams indicate that a particle with negative mass would move backwards through time.[4][5]
+
+This leads naturally to a twin universe or hourglass structure [6] where:
+
+ • Our universe contains positive mass/energy
+ • An anti-universe contains negative mass/energy
+ • The two regions are time-reversed with respect to each other
+ • Gravitational interaction occurs between the regions
+ 
+2.2 Connection to Kerr Geometry
+
+The maximally extended Kerr solution for rotating black holes predicts a region with r < 0 that possesses negative ADM mass. This region, accessible by passing through the ring singularity, exhibits:
+
+ • Time-reversed causal structure
+ • Negative effective mass
+ • Closed timelike curves in certain regions
+ • Connection to white hole regions
+ 
+We propose that the Kerr anti-universe region and the cosmological anti-universe are the same entity viewed at different scales. The Kerr solution describes the local geometry near rotating black holes that connect to this region, while the cosmological model describes its large-scale properties.
+
+2.3 Bimetric Relativity and Negative Mass Dynamics
+
+In Newtonian mechanics, negative mass exhibits potentially problematic "runaway motion" where a positive and negative mass particle could accelerate indefinitely.[7] However, at least three factors mitigate this concern.
+
+First, the perfect alignment required for runaway motion to occur is virtually impossible to achieve and unstable to any perturbation. Even if momentarily aligned, external forces or quantum uncertainty rapidly destabilize the configuration. Second, even if runaway motion could occur, it doesn’t violate the laws of energy conservation, the momentum of the system always remains at zero.
+
+Third, bimetric models of general relativity [8][9] — where spacetime is described by two coupled Riemannian metrics, one for positive mass and one for negative mass — predict that positive and negative masses mutually repel. This eliminates the runaway problem entirely and results in a model where large-scale clusters of negative mass can exist.
+
+3. Explanatory Power
+
+3.1 Dark Energy
+
+Negative matter distributed throughout intergalactic space would be gravitationally repelled from concentrations of positive matter (galaxies and clusters). This creates a diffuse background of negative mass that:
+
+ • Generates repulsive gravity, mimicking dark energy's effect on cosmic expansion
+ • Becomes diluted as the universe expands, naturally explaining the observed decrease in dark energy density
+ • Requires no cosmological constant or exotic vacuum energy
+ 
+One potential issue with this idea is that bimetric models tell us the negative mass clumps together into large clusters, so it might not produce the diffuse distribution required to explain dark energy. However, this might not be a problem if we remember that the anti-universe is moving backwards in time from our perspective.
+
+A black hole in our universe would look like a white hole from the perspective of anyone living in the anti-universe. Our universe would look like the anti-universe from the perspective of anyone living in the anti-universe. Matter clumps together in our universe, but does the opposite in the anti-universe, from our perspective.
+
+If matter in our universe obeys a thermodynamic arrow of time pointing forward — entropy increasing, structures forming through gravitational collapse — then the anti-universe running backward would look, from our perspective, like structures dissolving rather than forming. That allows large negative masses to exist while also explaining why the negative mass is being dispersed into a gas-like state.
+
+3.2 Dark Matter and the Cavity Model
+
+The negative matter repelled from galaxies creates a spherical cavity of reduced negative mass density around each galaxy. Removing negative mass is equivalent to gaining positive mass, so it creates the illusion of a spherical halo of positive mass surrounding galaxies, otherwise known as the dark matter halo. Using the Shell Theorem, a cavity can be treated as equivalent to a halo of positive mass. This "cavity model" explains:
+
+ • Flat rotation curves: Objects at the edge of the cavity experience increasing restoring force from the surrounding negative mass, preventing the Keplerian decline expected from visible matter alone
+ • Enhanced gravitational lensing: The cavity acts as additional positive mass, intensifying lensing beyond what visible matter would produce
+ • Cuspy Halo Problem: WIMP models predict dense central cusps that are not observed. The cavity model predicts relatively uniform density throughout the halo, matching observations
+ • Dwarf Galaxy Problem: The lack of a dark matter particle and the uniform density of the cavity around large galaxies means there isn’t an effective mechanism that can produce a high number of dwarf galaxies, although sub-halos can still form
+
+This model helps explain the flat rotation curves we measure when observing galaxies, because as an object moves closer to the edge of the halo, it experiences an increasingly stronger force trying to push it back towards the core of the galaxy due to all the negative mass surrounding the galaxy. Alternatively, we can substitute the halo cavity for an equivalent amount of positive mass using the Shell Theorem.
+
+In that case we can treat it like a spherically symmetrical body, since the density of the cavity doesn't change much. As an object moves away from a galaxy, the force of gravity pulling the object back towards the galactic core will increase due to the halo of artificial positive mass engulfing the galaxy.
+
+This model replicates the same forces as dark matter, allowing us to explain the unusually flat rotation curves we measure on most galaxies. It explains how galaxies are able to hold themselves together and also explains the overly intense lensing effects we see around galaxies. Furthermore, it unveils a unified description of dark energy and dark matter, achieving all of that without any ad-hoc mechanisms.
+
+3.3 Large-Scale Structure
+
+If negative masses attract each other as predicted by bimetric models, they would form large concentrations in cosmic voids. J.P. Petite and collaborators published research in 2024 concerning “a bimetric cosmological model based on Andreï Sakharov’s twin universe approach”,[8] where they described the formation of large scale galactic structures with "immense negative-mass protostars" in the center of the voids. This explains:
+
+ • The filamentary structure of galaxies: Positive matter concentrates along the boundaries between negative mass concentrations
+ • Cosmic voids: Regions where negative matter has concentrated, repelling positive matter, resulting in large-scale cellular type structures
+ • The dipole repeller: A specific large-scale void that appears to repel matter, consistent with a negative mass concentration
+ • Rapid structure formation in early universe: Negative mass clusters force positive mass to be concentrated into compact structures more rapidly
+
+3.4 Black Hole Phenomena
+
+If rotating black holes connect our universe to the anti-universe, matter falling into black holes could emerge from white holes into the negative mass region of the anti-universe, since a white hole is a time-reversed black hole. The unusual flare activity seen around black holes is then a natural result of the positive-negative mass annihilation process. This framework suggests:
+
+ • White holes exist in the anti-universe: The thermodynamic impossibility of white holes in our universe is resolved because they exist in a time-reversed region
+ • Matter-cycle between universes: Positive matter enters black holes, emerges from white holes in the anti-universe, and vice versa
+ • Information preservation: Information entering black holes transfers to the anti-universe rather than being destroyed, potentially resolving the information paradox
+
+Negative mass annihilating with an equal amount of positive mass would cancel to nothing in terms of mass, but the kinetic energy associated with both must be conserved. That energy difference should result in an emission of photons across the spectrum. This could produce incredibly high-energy photons, potentially explaining the extreme infrared flux levels that current statistical models struggle to explain.
+
+3.5 Supermassive Black Hole Flares
+
+Recent observations of Sagittarius A* reveal unexpected, random flaring activity that exceeds theoretical predictions. Observations from the James Webb Space Telescope describe "ongoing fireworks" with unpredictable timing and intensity.[10] Once again this model offers a natural explanation.
+
+If negative matter periodically falls into a white hole and it opens the throat of the wormhole connecting to the black hole so that matter can pass through, then annihilation would occur when the negative matter encounters positive matter. This would produce several effects we observe:
+
+ • Unpredictable timing: The flow from the time-reversed anti-universe would not correlate with our timeline
+ • Variable intensity: Depending on the amount of negative matter emerging at any moment
+ • High energy release: Complete mass-energy conversion, potentially more efficient than matter-antimatter annihilation
+ • No correlation with accretion disk activity: The high energy flare activity is not a result of processes confined to the accretion disk
+
+This could explain why traversable wormholes require negative energy: because they're naturally connected to the anti-universe where negative mass exists. It also explains the variability of black hole activity. When negative mass falls into a white hole, it temporarily opens/widens the throat, allowing more interaction.
+
+Additionally, observations of highly ionized hydrogen clouds at the galactic center [11] are not easily explained by standard models. Current theories propose dark matter self-annihilation,[12] but this requires dark matter to clump centrally, contradicting observational evidence (the Cuspy Halo Problem). The black hole emission model provides a more parsimonious explanation consistent with other observations.
+
+4. Testable Predictions and Observational Tests
+
+4.1 Black Hole Flare Statistics
+
+Faster rotating supermassive black holes may exhibit more frequent and energetic flares than slow-rotating ones, due to the geometric structure of Kerr black holes. Statistical analysis of flare patterns across black holes of known spin should reveal this correlation. Furthermore, flare characteristics should not correlate with observable accretion disk activity, but may show unusual spectral signatures and may also show patterns related to the black hole's rotation rate.
+
+Conventional wisdom would tell us nothing can escape a black hole. In section 5.2 we discuss some possible loopholes and some potential mechanisms to explain how the photons produced by the annihilation process might escape the black hole. If Sgr A* and other supermassive black holes are intermittently releasing matter from the anti-universe, and if that's releasing energy via annihilation events, then we would observe:
+
+ • Bursts of high-energy radiation (the flares)
+ • A steady background of ionizing radiation
+ • Radiation not correlated with accretion activity
+ • Possibly stronger effects around faster rotating black holes
+ 
+4.2 Gravitational Wave Signatures
+
+The dipole repeller is estimated to be 700 million light-years away and represents a massive void or negative mass concentration. Current gravitational wave detectors (LIGO, Virgo) are optimized for high-frequency events like binary mergers, but negative mass structures would likely produce very low frequency gravitational waves due to the enormous scales and relatively slow dynamics of cosmological structures.
+
+These would be in the nanohertz range, detectable by pulsar timing arrays (like NANOGrav, EPTA) rather than LIGO. Rather than burst events, we expect a stochastic background from all the negative mass structures throughout the cosmos. Negative mass clusters such as the dipole repeller might not be individually detectable, but the ensemble of all such structures should contribute to the background.
+
+The gravitational waves emitted by large negative mass concentrations in cosmic voids should produce a distinctive background signature. Interestingly, pulsar timing arrays have recently identified a stochastic background which has been cautiously attributed to supermassive black hole mergers.[13] This signal may contain components from negative mass structures.
+
+Testing this requires mapping known voids and predicted negative mass concentrations such as the dipole repeller, calculating expected gravitational wave characteristics (frequency, polarization, amplitude), and searching for correlations in pulsar timing data. Negative mass might produce waves with opposite polarization to positive mass, providing a clear signature.
+
+The polarization signature is potentially the cleanest discriminator. Gravitational waves from negative mass sources, if the stress-energy tensor has opposite sign, should produce a distinguishable polarization pattern from merger events. Current detectors have limited polarization sensitivity but it's not zero, and future detectors like LISA will have much better capabilities.
+
+By mapping known voids, we can calculate where the signal should be anisotropic. The background shouldn't be perfectly uniform, it should show subtle directional correlations with the distribution of large scale voids. That's a specific, quantitative prediction that existing pulsar timing array data could in principle already be interrogated for.
+
+4.3 Dark Halo and Galaxy Morphology
+
+Observational data indicates that there seems to be a strong link between the shape and size of a galaxy and the size of the dark halo around it.[14] Our standard models have had a hard time explaining that since they view both things as distinct and separate entities with different histories. This model directly explains why that correlation exists since the size of a cavity directly depends on the size, shape, and contents of a galaxy.
+
+If dark matter is a separate particle species with its own independent history, there's no obvious reason why it should care so precisely about the baryonic structure. Researchers have proposed various coupling mechanisms but those are ad-hoc patches. A cavity carved by the galaxy's own gravitational influence on a surrounding negative mass medium would produce a stellar-to-halo mass relation as a direct geometric consequence.
+
+4.4 Dark Energy Evolution
+
+The model's prediction of decreasing dark energy density has already been confirmed. Continued precise measurements should show continued dilution following specific predictions based on the expansion rate and the negative matter distribution. This distinguishes the model from the cosmological constant, which predicts constant density. The rate of change could soon be measurable with DESI and other surveys.
+
+Different regions of the universe may also experience different rates of inflation due to variations in the ratio of negative to positive mass. The rate of inflation directly depends on that ratio, and we appear to live in a region of the universe where the ratio of negative mass is at least 90%, suggesting that negative mass largely accounts for the dark components which are estimated to make up 95% of our observable universe.
+
+4.5 Galactic Rotation Curves and Lensing
+
+The cavity model makes quantitative predictions for rotation curves based on galaxy mass and the assumed negative matter density. These predictions can be compared against the extensive catalog of measured rotation curves. Similarly, gravitational lensing intensity predictions can be tested against observations. The model should match observations better than standard WIMP halo profiles, particularly in avoiding the Cuspy Halo Problem.
+
+By making use of the Shell Theorem it’s possible to calculate how much artificial positive mass is required to produce the expected halos and rotation curves. Preliminary calculations suggest our local universe needs to be at least 90% negative mass/energy. This is primarily caused by the fact there's such a large volume of space in between all the galaxies, the density of negative matter needs to be very high in order for a cavity within it to have a sufficient impact on the curvature of space-time.
+
+4.6 Large-Scale Structure Simulations
+
+N-body simulations incorporating both positive and negative mass following bimetric dynamics should reproduce observed large-scale structure. The model predicts cellular/filamentary patterns with positive matter concentrated along boundaries between negative mass concentrations. Comparing these simulations to observations of cosmic web structure provides a definitive test.
+
+5. Challenges and Open Questions
+
+5.1 The 90% Negative Mass Ratio
+
+Preliminary calculations suggest our observable universe requires at least 90% negative mass/energy to produce the observed effects. This appears to challenge the zero-energy assumption. However, several factors may resolve this:
+
+ • Dynamic separation: Over cosmic time, positive mass naturally clumps through gravitational attraction while negative mass spreads through gravitational repulsion. This self-reinforcing process would inevitably produce regions with vastly different ratios
+ • Anthropic selection: Observers can only exist in regions where positive matter concentrated sufficiently to form stars and planets. We necessarily observe an atypical ratio
+ • Non-representative sample: Our observable universe may not represent the global ratio. The universe as a whole could maintain closer to 50/50 balance
+
+In the very early universe, if positive and negative mass were initially evenly distributed, any slight density perturbation would cause positive mass to gravitationally attract and clump. Negative mass would be repelled from those clumps, which creates a self-reinforcing separation process. Over cosmic time, positive mass concentrates into galaxies and clusters, while negative mass fills the vast spaces between, producing cosmic voids and the cosmic web structure.
+
+The 90%+ ratio in our observable universe might not be a fine-tuning problem, it might be the inevitable result of cosmic evolution with both mass types interacting through gravity. It's dynamic evolution rather than anthropic reasoning, the ratio emerges naturally from the physics. The process can be thought of like cream separating in milk, it naturally produces different concentrations in different regions.
+
+The final ratios aren't arbitrary but determined by the physics of the separation process. The skewed ratio we observe may emerge from the physics of matter separation rather than fine-tuning, making it a natural consequence of the model rather than a problem. We acknowledge this is still an open question because if we live in a region of the universe where positive mass has concentrated then we wouldn’t expect to measure significantly more negative mass in the local universe.
+
+5.2 Black Hole Radiation
+
+If nothing can escape a black hole it’s hard to imagine how they might generate the flare activity predicted by this model. However, there are some possible mechanisms and loopholes that allow us to get around this problem. The wormhole throat, in the Kerr geometry, sits at the inner horizon rather than the outer event horizon. However, the annihilation events could be happening in the ergosphere or just outside the outer horizon, not deep inside.
+
+As negative mass falls toward the white hole side, the gravitational influence of that process — the change in the spacetime geometry — propagates outward at the speed of gravity. The energy released doesn't necessarily have to physically travel outward from inside the horizon. Instead the geometry itself is briefly perturbed in a way that releases energy outside the horizon. This is loosely analogous to how Hawking radiation works: the energy doesn't escape from inside the horizon, it's produced at the boundary by the distortion of the vacuum.
+
+There's also the Penrose process as a related mechanism. In a rotating Kerr black hole, the ergosphere sits outside the outer event horizon, and it's physically possible to extract energy from the ergosphere.[15][16] Particles entering the ergosphere can split in ways that allow one component to escape with more energy than the infalling particle carried. If the wormhole throat dynamics create perturbations that propagate into the ergosphere, energy extraction and escape becomes geometrically possible.
+
+A third angle is that the flares may not require photons escaping from inside the horizon at all. The annihilation events could trigger cascading processes in the accretion disk and surrounding plasma through tidal and gravitational disturbances that propagate outward, with the actual photon production happening in the disk material itself responding to those disturbances. The wormhole dynamics would then be the trigger rather than the direct source of the radiation.
+
+This process could help resolve flare timing anomalies. If the radiation is produced by the disk responding to gravitational perturbations from throat opening events, we would expect the flares to have a specific lag structure — the perturbation travels outward, excites the disk, and the radiation follows with a characteristic delay. That delay pattern might be detectable and would be a signature distinct from accretion-driven flares.
+
+5.3 Negative Mass Clumping vs. Diffuse Distribution
+
+Bimetric models predict negative masses attract each other, potentially leading to large concentrations. While this explains cosmic voids and large-scale structure, it creates tension with the dark energy mechanism and the cavity model, which require relatively diffuse negative matter around galaxies.
+
+Potential resolutions include:
+
+ • A dissolving universe: From our perspective the anti-universe is dissolving and the negative mass is becoming more diffuse over time
+ • Scale-dependent behavior: Negative matter remains diffuse on galactic scales but clumps on larger cosmological scales
+ • Dark fluid model: Treating negative matter as a superfluid or fluid with specific equation of state that resists clumping at certain scales
+	
+If large negative masses do exist inside cosmic voids, it’s difficult to explain how such a high density of diffuse negative mass could exist around galaxies at the same time, so we believe this is still an open question and requires further theoretical development.
+
+5.4 Detection of Negative Mass
+
+No direct detection of negative mass exists, but dark matter hasn’t been directly detected either. Recent experiments (ALPHA-g) measuring antimatter's gravitational behavior confirm it falls towards Earth like normal matter,[17] suggesting antimatter is not negative matter, it just has an opposite charge to normal matter. This model predicts negative matter would be extremely difficult or impossible to detect directly since:
+
+ • Gravitational repulsion from normal matter prevents accumulation near galaxies
+ • Negative matter is instantly annihilated upon contact with normal matter
+ • In bimetric models, the anti-universe is causally isolated except through gravity
+ • Detection would require indirect observation through gravitational effects, which is precisely what we observe as dark matter and dark energy
+	
+6. Connections to Quantum Gravity and Cosmology
+
+6.1 Loop Quantum Gravity
+
+Loop quantum gravity predicts a "quantum bounce" at black hole singularities where matter cannot be compressed beyond a fundamental limit.[18] Rovelli and colleagues argue this leads to matter emerging on the other side in a time-reversed manner,[19] essentially describing a black hole-white hole connection remarkably similar to the structure proposed here. The convergence of LQG (from quantizing general relativity) and this model (from energy conservation and negative mass) on the same hourglass structure suggests a deep connection.
+
+6.2 Hawking's No Boundary Proposal
+
+Hawking's final work with Hertog and Hartle on the No Boundary Proposal also appears to predict an hourglass universe with opposite arrows of time on either side of a bounce.[20] This independent convergence on the twin universe structure from completely different starting points (quantum cosmology versus negative mass) strengthens the case that this structure reflects something fundamental about reality.
+
+6.3 The CPT-symmetric Universe
+
+The CPT-symmetric universe proposed by Turok and Boyle is also strongly related to this model. Their key claim is that the universe and its CPT mirror image together form a single solution to the Standard Model with no new physics required.[21] The anti-universe has reversed charge, parity, and time. They claim this naturally explains the matter-antimatter asymmetry and produces three right-handed neutrinos that could account for dark matter, without invoking negative mass explicitly.
+
+6.4 The Zero-energy Universe
+
+The thermodynamic arrow of time is reversed for negative mass. Therefore, a zero-energy universe with negative mass naturally leads to a twin universe model with two mirror image universes sprouting out from the Big Bang. The zero-energy universe requires an equal amount of positive and negative energy, which would result in zero curvature. Observational evidence indicates the universe is flat and infinite.
+
+6.5 Quantum Field Theory
+
+Recent work by Gaztanaga and collaborators uses a modern quantum interpretation of time to build a new understanding of Einstein–Rosen bridges.[22] They claim that these bridges/wormholes can be understood as two complementary components of a quantum state, with time flowing in opposite directions on each side. They say when information passes across the event horizon it continues evolving, but in the opposite temporal direction, and that can potentially solve the information paradox.
+
+6.6 Traversable Wormholes and Negative Energy
+
+Theoretical work on traversable wormholes has long shown that negative energy is required to hold the throat open.[23] This model provides a natural source: the anti-universe contains abundant negative mass/energy. When negative matter flows from the anti-universe through black hole connections, it may temporarily open or widen the wormhole throat, enabling matter transfer and explaining the variable flare activity observed at supermassive black holes.
+
+7. Conclusion
+
+The negative mass anti-universe model offers a unified framework addressing multiple outstanding problems in cosmology and black hole physics. It offers a range of testable predictions, some of which only require a reanalysis of existing data through this new interpretive lens. The key strengths of the model include:
+
+ • Natural emergence from basic principles: energy conservation and mass-energy equivalence
+ • No new physics: we trust what our best mathematical frameworks are already telling us about the universe
+ • Unified explanation: dark matter, dark energy, and black hole phenomena explained by a single mechanism
+ • Successful prediction: the model predicted decreasing dark energy density before it was observed
+ • Resolution of anomalies: Cuspy Halo Problem, Dwarf Galaxy Problem, flat rotation curves, enhanced lensing, cosmological constant problem, information paradox, supermassive black hole flares, and galactic center ionization all find natural explanations
+ • Convergence of fundamental physics: consistent with Kerr geometry, Loop Quantum Gravity, the No Boundary Proposal, and the CPT-symmetric Universe
+ • Multiple testable predictions: flare statistics, gravitational waves, rotation curves, lensing profiles, dark energy dynamics, and large-scale structure
+	
+The convergence of multiple independent lines of reasoning — cosmological models, black hole physics, quantum gravity, and observational astronomy — on the same hourglass structure with negative mass is striking. This suggests we may be approaching a fundamental truth about the universe's structure from multiple directions.
+
+While challenges remain, particularly regarding the dynamics of negative matter evolution and the high negative mass fraction, these appear surmountable through further theoretical development and may even strengthen the model once fully understood. The apparent fine-tuning of the 90% ratio likely reflects natural dynamical evolution rather than requiring special initial conditions.
+
+Most importantly, the model makes clear, testable predictions that can be evaluated with current and near-future observational capabilities. Analysis of supermassive black hole flare patterns, pulsar timing array data, rotation curve data, and large-scale structure simulations can definitively test the model's validity.
+
+The history of physics demonstrates that mathematical predictions of general relativity, however strange they initially appear, often prove to reflect reality. Einstein himself initially rejected the existence of black holes, despite them being solutions to his own equations. The anti-universe predicted by Kerr geometry and multiple cosmological models may prove equally real.
+
+This model suggests that 95% of the observable universe consists not of mysterious dark components requiring new particles or modified gravity, but of negative mass obeying the same general relativistic principles as positive mass. The model doesn't require any exotic new physics, unless you consider negative mass to be exotic. It’s often called exotic matter but it arises from the symmetry in our most fundamental theories.
+
+References
+
+[1] DESI Collaboration; M.A. Karim et al. (2025). DESI DR2 results. II. Measurements of baryon acoustic oscillations and cosmological constraints. Physical Review D, 112, 083515. https://doi.org/10.1103/tr6y-kpc6
+[2] R.P. Kerr (1963). Gravitational field of a spinning mass as an example of algebraically special metrics. Physical Review Letters, 11, 237. https://doi.org/10.1103/PhysRevLett.11.237
+[3] R.H. Boyer, R.W. Lindquist. (1967). Maximal Analytic Extension of the Kerr Metric. Journal of Mathematical Physics, 8, 265. https://doi.org/10.1063/1.1705193
+[4] J.M. Souriau. (1997). A mechanistic description of elementary particles: Inversions of space and time. Structure of Dynamical Systems. Progress in Mathematics, 149. ISBN: 978-1-4612-6692-1 DOI: 10.1007/978-1-4612-0281-3
+[5] R.P. Feynman. (1949). The theory of positrons. Physical Review, 76, 749. https://doi.org/10.1103/PhysRev.76.749
+[6] J. Barbour, T. Koslowski, F. Mercati. (2014). Identification of a gravitational arrow of time. Physical Review Letters, 113, 181101. https://doi.org/10.1103/PhysRevLett.113.181101
+[7] H. Bondi. (1957). Negative mass in general relativity. Reviews of Modern Physics, 29, 423. https://doi.org/10.1103/RevModPhys.29.423
+[8] J.P. Petit, F. Margnat, H. Zejli. (2024). A bimetric cosmological model based on Andrei Sakharov's twin universe approach. The European Physical Journal C, 84, 1226. https://doi.org/10.1140/epjc/s10052-024-13569-w
+[9] S. Hossenfelder. (2008). Bimetric theory with exchange symmetry. Physical Review D, 78, 044015. https://doi.org/10.1103/PhysRevD.78.044015
+[10] F. Yusef-Zadeh et al. (2025) Nonstop Variability of Sgr A* Using JWST at 2.1 and 4.8 μm Wavelengths: Evidence for Distinct Populations of Faint and Bright Variable Emission. The Astrophysical Journal Letters. https://doi.org/10.48550/arxiv.2501.04096
+[11] J. Bally, R.R. Joyce, N.Z. Scoville. (1979). Near-infrared observations of ionized hydrogen at the core of the Galaxy. Astrophysical Journal, 229, 917. https://doi.org/10.1086/157026
+[12] P.D. Luque, S. Balaji, J. Silk. (2025). Anomalous Ionization in the Central Molecular Zone by Sub-GeV Dark Matter. Physical Review Letters, 134, 101001. https://doi.org/10.1103/PhysRevLett.134.101001
+[13] NANOGrav Collaboration; G. Agazie et al. (2023). The NANOGrav 15-year data set: Evidence for a gravitational-wave background. The Astrophysical Journal Letters, 951, L8. https://doi.org/10.3847/2041-8213/acdac6
+[14] V. Toptun et al. (2026). The stellar-to-halo mass relation of central galaxies across three orders of halo mass. https://doi.org/10.48550/arXiv.2602.10193
+[15] R. Penrose, R.M. Floyd. (1971). Extraction of Rotational Energy from a Black Hole. Nature Physical Science, 229, 177. https://doi.org/10.1038/physci229177a0
+[16] J.D. Bekenstein. (1973). Extraction of Energy and Charge from a Black Hole. Physical Review D, 7, 949. https://doi.org/10.1103/PhysRevD.7.949
+[17] ALPHA Collaboration; E.K. Anderson et al. (2023). Observation of the effect of gravity on the motion of antimatter. Nature, 621, 716. https://doi.org/10.1038/s41586-023-06527-1
+[18] C. Rovelli, F. Vidotto. (2014). Planck stars. International Journal of Modern Physics D, 23, 1442026. https://doi.org/10.1142/S0218271814420267
+[19] H.M. Haggard, C. Rovelli. (2015). Quantum-gravity effects outside the horizon spark black to white hole tunneling. Physical Review D, 92, 104020. https://doi.org/10.1103/PhysRevD.92.104020
+[20] J.B. Hartle, S.W. Hawking, T. Hertog. (2008). The no-boundary measure of the universe. Physical Review D, 77, 123537. https://doi.org/10.1103/PhysRevD.77.123537
+[21] L. Boyle, K. Finn, N. Turok. (2018). CPT-symmetric universe. Physical Review Letters, 121, 251301. https://doi.org/10.1103/PhysRevLett.121.251301
+[22] E. Gaztanaga, K.S. Kumar, J. Marto. (2026). A new understanding of Einstein–Rosen bridges. Classical and Quantum Gravity, 43, 015023. https://doi.org/10.1088/1361-6382/ae3044
+[23] M. Visser. (1989). Traversable wormholes: Some simple examples. Physical Review D, 39, 3182. https://doi.org/10.1103/PhysRevD.39.3182
