@@ -70,6 +70,8 @@ Extracts the density profile from the 2D cavity simulation. Several parameters a
 - The Newtonian N-body simulation is insufficient to capture full GR effects of the cavity (effective mass computed from cavity size and background density).
 - Effective rotation curve (computed from effective mass of cavity, assumes uniform density profile) shows strong uplift beyond 50+ kpc.
 - Low effective mass at 50/50 neg-pos ratio suggests the **cavity model alone cannot account for the full dark matter halo** without additional mass sources.
+- Required neg-mass local density: ~3.9×10⁴ M☉/kpc³ (≈285× ρ_crit) — The cavity model requires local overdensity of neg-mass around galaxies comparable to ΛCDM dark matter halo overdensities (~200-300× ρ_crit).
+- The required ~300× overdensity for neg-mass is modest compared to the ~10⁶× overdensity for positive mass in galaxies and may be a result of galaxies displacing neg-mass into surrounding volumes at enhanced density.
 
 ### Cluster-scale
 
@@ -99,9 +101,9 @@ Extracts the density profile from the 2D cavity simulation. Several parameters a
 
 - NFW fit: χ²=4.7, concentration c=21 (high; explained by disk-halo degeneracy), baryon fraction f_b=6.1%
 - **Burkert (cored) fit**: χ²=4.3 and f_b=15.3% — exactly the cosmic average (Ω_b/Ω_m ≈ 15.7%). The apparent "missing baryons" problem disappears with a cored halo profile. Both NFW and Burkert fit the data equally well (χ²_red ≈ 0.11), illustrating the classic disk-halo degeneracy.
-- **Cavity (logistic)**: χ²=3.9 and f_b=19.1% — fits data slightly better than NFW and Burkert, predicts even higher baryon fraction.
+- **Cavity (logistic)**: χ²=3.9 and f_b=19.1% — fits data slightly better than NFW and Burkert, but at the cost of implausible ρ_bg (188× cosmological).
 - **Cavity + WDM**: χ²=4.3, M_bary=9.8e10 — nearly identical to the pure Burkert fit. The cavity's contribution is negligible at cosmological ρ_bg. If WDM (sterile neutrinos) IS the dark matter, and the cavity is negligible, then the **"missing baryons" in NFW fits are simply a cusp-core artifact** — the galaxy has all its baryons, they just need a cored halo profile to reveal them.
-- Required neg-mass local density: ~3.9×10⁴ M☉/kpc³ (≈285× ρ_crit) — The required ~300× overdensity for neg-mass is modest compared to the ~10⁶× overdensity for positive mass in galaxies and may be a result of galaxies displacing neg-mass into surrounding volumes at enhanced density.
+- The success of cored density profiles says something important about the nature of dark matter. The sterile neutrinos predicted to exist in a CPT-symmetric universe act as warm dark matter and would phase-space pack into a cored distribution.
 
 ### 2D Cavity Sim
 
